@@ -1,7 +1,3 @@
-# coupon-acceptance-analysis
-An analysis of customer coupon acceptance behavior to identify key predictors and provide actionable marketing insights.
-# Coupon Acceptance Analysis: A Deep Dive into Customer Behavior
-
 ### Project Overview
 
 The goal of this project is to move beyond simple acceptance rates and understand the underlying behaviors and characteristics of customers who accept promotional coupons. By analyzing two distinct coupon types—Bar and Coffee House—this report identifies key predictive factors and builds customer personas. The final objective is to provide the marketing team with actionable, data-driven recommendations to increase campaign efficiency and return on investment (ROI).
